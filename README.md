@@ -1,1 +1,3 @@
-__The Odin Project CSS Exercices__
+__My GitHub Portfolio__
+
+- Collection of personal/college programming projects
