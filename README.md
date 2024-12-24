@@ -2,7 +2,7 @@ __My GitHub Portfolio__
 
 Collection of personal/college programming projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seannn9&theme=dracula-duo&card_width=1080)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=seannn9&theme=tokyonight-duo&card_width=1080)](https://git.io/streak-stats)
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seannn9&show_icons=true&theme=dracula&card_width=1080)
 
