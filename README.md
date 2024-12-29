@@ -4,7 +4,7 @@ Collection of personal/college programming projects
 
 Portfolio Website: https://seanulric.vercel.app/
 
-![](https://komarev.com/ghpvc/?username=seannn9)
+![](https://komarev.com/ghpvc/?username=seannn9&color=blueviolet)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=seannn9&theme=tokyonight-duo&card_width=1080)](https://git.io/streak-stats)
 
