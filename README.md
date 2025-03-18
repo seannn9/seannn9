@@ -1,6 +1,6 @@
 __My GitHub Portfolio__
 
-Collection of personal/college programming projects
+Collection of my coding projects
 
 Portfolio Website: https://seanulric.vercel.app/
 
