@@ -2,11 +2,9 @@ __My GitHub Portfolio__
 
 Collection of my coding projects
 
-Portfolio Website: https://seanulric.vercel.app/
+Portfolio: https://seanulric.vercel.app/
 
 ![](https://komarev.com/ghpvc/?username=seannn9&color=blueviolet)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=seannn9&theme=vision-friendly-dark&card_width=1080)](https://git.io/streak-stats)
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seannn9&show_icons=true&theme=tokyonight&card_width=1080)
 
