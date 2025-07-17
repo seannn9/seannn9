@@ -2,8 +2,6 @@ __My GitHub Portfolio__
 
 Collection of my coding projects
 
-Portfolio: https://seanulric.vercel.app/
-
 ![](https://komarev.com/ghpvc/?username=seannn9&color=blueviolet)
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seannn9&show_icons=true&theme=vision-friendly-dark&card_width=1080)
